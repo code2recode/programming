@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+EmployeeDetail	Emp_Detail.h	/^		EmployeeDetail()$/;"	f	class:EmployeeDetail
+EmployeeDetail	Emp_Detail.h	/^class EmployeeDetail$/;"	c
+emp_Age	Emp_Detail.h	/^		uint16_t emp_Age;		$/;"	m	class:EmployeeDetail
+emp_Name	Emp_Detail.h	/^		char  *emp_Name;$/;"	m	class:EmployeeDetail
+emp_mobNo	Emp_Detail.h	/^		uint8_t emp_mobNo[10];$/;"	m	class:EmployeeDetail
+getEmpDetail	Emp_Detail.h	/^			EmployeeDetail getEmpDetail()$/;"	f	class:EmployeeDetail
+main	Emp_Management.cpp	/^int main()$/;"	f
+~EmployeeDetail	Emp_Detail.h	/^		~EmployeeDetail()$/;"	f	class:EmployeeDetail
